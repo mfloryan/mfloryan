@@ -1,4 +1,8 @@
-# 👋🏻 Hey 
+# Marcin Floryan
+
+Software Engineer and Engineering Leader. As of 2022 at *Spotify* as a Director of Engineering focusing on Technology Operations.
+
+## 👋🏻 Hey
 
 ```json
 {
