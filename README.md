@@ -1,6 +1,6 @@
 # Marcin Floryan
 
-Software Engineer and Engineering Leader. As of 2022 at *Spotify* as a Director of Engineering focusing on Technology Operations.
+Software Engineer and Engineering Leader. As of 20224 at *Spotify* as a Director of Engineering focusing on Media technologies.
 
 ## 👋🏻 Hey
 
