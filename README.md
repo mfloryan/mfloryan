@@ -1,6 +1,6 @@
 # Marcin Floryan
 
-Software Engineer and Engineering Leader. As of 20224 at *Spotify* as a Director of Engineering focusing on Media technologies.
+Software Engineer and Engineering Leader. As of 2024 at *Spotify* as a Director of Engineering and Product focusing on Media technologies.
 
 ## 👋🏻 Hey
 
@@ -20,6 +20,8 @@ Software Engineer and Engineering Leader. As of 20224 at *Spotify* as a Director
             "JavaScript",
             "Java",
             "Ruby",
+            "Groovy",
+            "Scala",
             "Python",
             "PHP",
             "Basic"
@@ -42,6 +44,7 @@ Software Engineer and Engineering Leader. As of 20224 at *Spotify* as a Director
 
 ## Elsewhere
 
-- 💻 [marcin.floryan.pl](https://marcin.floryan.pl)
+- 💻 [marcin.floryan.se](https://marcin.floryan.se)
 - 🐦 [twitter.com/mfloryan](https://twitter.com/mfloryan)
+- 🦋 [bsky.app/marcin.floryan.se](https://bsky.app/profile/marcin.floryan.se)
 - 🧑‍💼 [linked.in/mfloryan](https://www.linkedin.com/in/mfloryan/)
