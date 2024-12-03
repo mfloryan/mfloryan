@@ -48,3 +48,5 @@ Software Engineer and Engineering Leader. As of 2024 at *Spotify* as a Director 
 - 🐦 [twitter.com/mfloryan](https://twitter.com/mfloryan)
 - 🦋 [bsky.app/marcin.floryan.se](https://bsky.app/profile/marcin.floryan.se)
 - 🧑‍💼 [linked.in/mfloryan](https://www.linkedin.com/in/mfloryan/)
+
+![](https://komarev.com/ghpvc/?username=mfloryan)
